@@ -1,0 +1,11 @@
+{
+  "build": { "dockerfile": "Dockerfile" },
+
+  "customizations": {
+    "vscode": {
+      "extensions": ["a-h.templ", "golang.go"]
+    }
+  },
+
+  "forwardPorts": [3000]
+}
