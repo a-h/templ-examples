@@ -1,6 +1,6 @@
 ## Tasks
 
-## run
+### run
 
 ```sh
 templ generate
